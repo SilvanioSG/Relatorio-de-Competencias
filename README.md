@@ -192,7 +192,7 @@ Entre os recursos utilizados estão:
 - análise de ferramentas;
 - consolidação de informações.
 
-Os gráficos são construídos com **SVG nativo**, reduzindo dependências externas e mantendo a aplicação leve e portável.
+Os gráficos são construídos com **Chart.js**, reduzindo dependências externas e mantendo a aplicação leve e portável.
 
 ---
 
@@ -213,7 +213,7 @@ Os gráficos são construídos com **SVG nativo**, reduzindo dependências exter
 - layout responsivo;
 - dados estruturados em JavaScript;
 - geração dinâmica de conteúdo;
-- gráficos em SVG;
+- gráficos em Chart.js;
 - ausência de back-end;
 - ausência de banco de dados;
 - possibilidade de publicação via GitHub Pages.
@@ -240,7 +240,7 @@ Os gráficos são construídos com **SVG nativo**, reduzindo dependências exter
 - manipulação do DOM;
 - responsividade;
 - geração dinâmica de conteúdo;
-- desenvolvimento de gráficos SVG.
+- desenvolvimento de gráficos Chart.js.
 
 ### Visualização de dados
 
