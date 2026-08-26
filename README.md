@@ -424,6 +424,7 @@ Projeto autoral desenvolvido para documentação da trajetória de capacitação
 - Website: https://www.silvaniogois.com.br/
 - LinkedIn: https://www.linkedin.com/in/silvanio-gois
 - GitHub: https://github.com/SilvanioSG
+- Relatório de Competências: https://silvaniosg.github.io/Relatorio-de-Competencias/
 
 ---
 
