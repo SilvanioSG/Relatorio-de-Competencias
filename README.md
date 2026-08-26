@@ -1,6 +1,7 @@
 # Relatório de Competências e Trajetória de Capacitação
 
 > Aplicação web para análise, visualização e documentação de uma trajetória de capacitação profissional.
+**Acesse o Relatório de Competências:** https://silvaniosg.github.io/Relatorio-de-Competencias/
 
 **Autor:** Silvanio Gois  
 **Versão:** 1.0  
